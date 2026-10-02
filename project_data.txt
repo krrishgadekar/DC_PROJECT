@@ -1,0 +1,10 @@
+distributed systems use nodes to communicate
+a distributed node sends heartbeat messages to other nodes
+leader election selects a leader in a distributed system
+quorum prevents split brain during a network partition
+mapreduce processes large data using map and reduce phases
+the map phase creates key value pairs
+the reduce phase combines values with the same key
+the distributed computing project uses quorum based leader election
+nodes continue their workload while the system is being tested
+mapreduce provides a background workload for the project
